@@ -1,0 +1,6 @@
+frontend:
+1. we make a move by clicking on a field
+2. request is sent with a board with a field that we took
+3. we wait for response, and if we get it move on
+4. we update the board on the front end with O
+5. until the game is not over (need a variable gamerunning)
